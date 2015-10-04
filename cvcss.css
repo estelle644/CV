@@ -1,0 +1,66 @@
+  
+     p
+     {font-size: 20px ;
+     Line-Height: 2.3;}
+     
+     h1
+     {font-family: 'Maven Pro';  
+     color : rgb(148, 16,66);
+     padding-bottom : 20px;
+     padding-top : 20px;}
+     
+      h2
+     {font-family: 'Maven Pro';  
+     font-size: 24px;
+     color : rgb(148, 16,66);
+     padding-bottom : 20px;
+     padding-top : 20px;}
+     
+     #presentation, #formation, #experiences, #informatique
+     {padding-bottom : 24px;
+     }
+     
+     
+     td
+     {font-size: 16px;}
+     
+     th
+     {font-family: 'Maven Pro';
+     font-size : 19px;}
+     
+     .annees
+     {color : rgb(97, 67, 78);   
+     font-weight : bold;
+     font-family: 'Maven Pro';
+     font-size: 19px;}
+      
+     
+      .travail
+     {font-weight : bold;
+     font-family: 'Maven Pro';
+     font-size: 19px;}
+     
+     ul p
+     {font-size: 14px;}
+     
+     li
+     {list-style-type : none;
+      font-size : 20px;
+      color : rgb(97, 67, 78);
+     }
+      
+     i
+     {background-color: rgb(148, 16,66);
+     border-radius: 50%;
+     padding:20px;
+      margin-bottom : 20px;
+     }
+     
+     .footer
+     {height : 140px;    
+     background-color :rgb(148, 16,66);}
+     
+    .mail 
+    {color: rgb(97, 67, 78);
+     margin-top:30px;
+    }
